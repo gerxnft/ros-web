@@ -32,7 +32,7 @@ export default function Home() {
           <div className="mt-1 flex w-full max-w-xl items-center gap-4">
             <span className="h-px flex-1 bg-[#D88E46]/42" />
             <p className="text-sm font-black uppercase tracking-[0.32em] text-[#D88E46] sm:text-base">
-              Battle Royale Awaits
+              Battle Royale Game
             </p>
             <span className="h-px flex-1 bg-[#D88E46]/42" />
           </div>
